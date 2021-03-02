@@ -68,6 +68,10 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 
 - [Workana](https://www.workana.com) – Largest Latin American freelancer network
 
+**German**
+
+- [Uplink](https://uplink.tech/) - A network for Germany-based IT freelancers
+
 **French**
 
 - [Codeur](https://www.codeur.com/) - Leader in France.
